@@ -1,5 +1,5 @@
 # What this does
-This application could generate sentences which seem to be made by Akutagawa(Great writer).
+This application could generate sentences which likely seem to be made by Akutagawa(Great writer).
 
 Relevant KEYWORD: RNN, LSTM, GRU
 
