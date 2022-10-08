@@ -15,9 +15,9 @@ graph TD;
     corpus-->__.txt;
 ```
 
-## akutagawa_nlp.ipynb
+### akutagawa_nlp.ipynb
 Main component. All of prreprocessing, training code are here(No validation, Testing).
 
-## corpus/__.txt
+### corpus/__.txt
 Raw data used for training and testing.
      
